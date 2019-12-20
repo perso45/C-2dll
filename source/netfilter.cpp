@@ -19,7 +19,7 @@
 #include <utlvector.h>
 #include <bitbuf.h>
 #include <steam/steam_gameserver.h>
-#include <symbolfinder.hpp>
+#include <scanning-master/symbolfinder.hpp>
 #include <game/server/iplayerinfo.h>
 
 #if defined _WIN32
